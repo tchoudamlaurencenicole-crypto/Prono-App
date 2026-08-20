@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import PronoApp from "./PronoFoot.jsx";
+import PronoFoot from "./PronoFoot.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <PronoApp />
+    <PronoFoot />
   </React.StrictMode>
 );
 
