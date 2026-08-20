@@ -1,6 +1,6 @@
 {
-  "name": "pronoapp",
-  "compatibility_date": "2026-07-01",
+  "name": "pronofoot",
+  "compatibility_date": "2026-08-20",
   "assets": {
     "directory": "./dist"
   }
