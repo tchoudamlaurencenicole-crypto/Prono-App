@@ -1,4 +1,4 @@
-const CACHE_NAME = "pronofoot-v1";
+const CACHE_NAME = "pronofoot-v2";
 const OFFLINE_URL = "/offline.html";
 
 self.addEventListener("install", (event) => {
